@@ -7,7 +7,7 @@
 🎨 J’aime expérimenter avec les styles, les personas et les formats créatifs. Ici, tu trouveras mes projets, explorations et peut-être quelques surprises visuelles 👀
 
 ## 🌐 Mes outils préférés
-- 🛠️ Markdown, Zotero, AI tools
+- 🛠️ ChatGPT, Zotero, AI tools
 - 📊 Analyse qualitative et thématique
 - 🎥 Inspirations : cinéma, cultures visuelles et récits sociaux
 
